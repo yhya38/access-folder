@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Karla", sans-serif;
+}
+
+.join {
+  background-color: ;
+  width: 100%;
+  height: 50vh;
+  margin: 30px;
+  padding: 20px;
+}
+
+.monthly {
+  background-color: green;
+  width: 50%;
+  float: left;
+  height: 50vh;
+}
+
+.why-us {
+  background-color: greenyellow;
+  width: 50%;
+  height: 50vh;
+  float: left;
+}
+
+.one {
+  color: skyblue;
+  margin: 10px;
+}
+.two {
+  color: yellowgreen;
+  margin: 10px;
+}
+.three {
+  color: gray;
+  margin: 10px;
+}
+.monthly {
+    color: white;
+}
+
+.sub {
+  color: white;
+  margin: 20px;
+}
+ 
+.bold {
+    color: white;
+    
+}
